@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\project-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\project-game\\assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|solutionrelative:assets\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\project-game\\assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|solutionrelative:assets\\birdscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\project-game\\assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|c:\\users\\lenovo\\project-game\\assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|solutionrelative:assets\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|c:\\users\\lenovo\\project-game\\assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC6424A-881E-1B16-B9E7-1296734BB263}|Assembly-CSharp.csproj|solutionrelative:assets\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\project-game\\Assets\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LogicScript.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\project-game\\Assets\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\LogicScript.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:20:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PipeMiddleScript.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\project-game\\Assets\\PipeMiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMiddleScript.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\project-game\\Assets\\PipeMiddleScript.cs",
+              "RelativeToolTip": "Assets\\PipeMiddleScript.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:34:26.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PipeSpawnScript.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\project-game\\Assets\\PipeSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeSpawnScript.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\project-game\\Assets\\PipeSpawnScript.cs",
+              "RelativeToolTip": "Assets\\PipeSpawnScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:35:48.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipeMoveScript.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\project-game\\Assets\\PipeMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PipeMoveScript.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\project-game\\Assets\\PipeMoveScript.cs",
+              "RelativeToolTip": "Assets\\PipeMoveScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:17:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirdScript.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\project-game\\Assets\\BirdScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BirdScript.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\project-game\\Assets\\BirdScript.cs",
+              "RelativeToolTip": "Assets\\BirdScript.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:39:20.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
